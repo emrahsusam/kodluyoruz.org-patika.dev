@@ -1,4 +1,4 @@
-# Ödev 2 [patika.dev](www.patika.dev) % [kodluyoruz.org](www.kodluyoruz.org)
+# Ödev 2 [patika.dev](www.patika.dev) & [kodluyoruz.org](www.kodluyoruz.org)
 
 ## Google Ana Sayfasını Tasarlamak
 
