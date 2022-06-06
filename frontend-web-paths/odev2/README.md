@@ -1,4 +1,6 @@
-# Ödev 2
+# Ödev 2 
+
+[Patika.dev](https://www.patika.dev/tr) | [Kodluyoruz.org](https://www.kodluyoruz.org/)
 
 ## Google Ana Sayfasını Tasarlamak
 
